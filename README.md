@@ -1,8 +1,8 @@
-![PIC OF Qi](Qi.JPG)
+![PIC OF Qi](Qi Siguniang Mountain.JPG 'Me ')
 
-## Welcome to Qi's GitHub Pages
+## Welcome to Qi's Homepage
 
-You can use the [editor on GitHub](https://github.com/ZhaoQii/ZhaoQii.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi guys~! I am Qi Zhao, You can use the [editor on GitHub](https://github.com/ZhaoQii/ZhaoQii.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
