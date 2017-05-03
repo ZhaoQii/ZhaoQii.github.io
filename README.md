@@ -1,4 +1,4 @@
-![Picture Of Qi](/Qi Siguniang Mountain.JPG 'Me at Siguniang Mountain, Sichuan Province, China')
+![Picture Of Qi](/QiSiguniangMountain.JPG "Me at Siguniang Mountain, Sichuan Province, China")
 
 ## Welcome to Qi's Homepage
 
